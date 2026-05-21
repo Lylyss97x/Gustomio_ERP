@@ -1,0 +1,572 @@
+[
+    {
+        "code": "61362",
+        "libelle": "Gorgonzola piccante DOP ~ 1,5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61196",
+        "libelle": "Gorgonzola DOP ~ 1,5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "TALEGGIO",
+        "libelle": "Taleggio ~ 2 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62347",
+        "libelle": "Cacioricotta ~ 350 g",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61411",
+        "libelle": "Provolone doux Auricchio ~ 980 g",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62542",
+        "libelle": "Stracchino cremoso 1 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62548",
+        "libelle": "Scamorza fumée ~ 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62563",
+        "libelle": "Camembert di bufala 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62564",
+        "libelle": "Fontina DOP ~ 2,5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61486",
+        "libelle": "Burrata pasteurisée 50g x 4",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61000",
+        "libelle": "Burrata pasteurisée 100g x 2",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61177",
+        "libelle": "Burrata pasteurisée 125g x 2",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61179",
+        "libelle": "Burrata pasteurisée 200g x 5",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61176",
+        "libelle": "Burrata pasteurisée 250g x 4",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61178",
+        "libelle": "Burratina di Andria IGP lait cru 125g x 2",
+        "unite": "Pièce"
+    },
+    {
+        "code": "2051",
+        "libelle": "Burrata di bufala 125 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "60824",
+        "libelle": "Burrata à la truffe 125 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61655",
+        "libelle": "Burrata fumée 125 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61238",
+        "libelle": "Stracciatella pasteurisée 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "18010",
+        "libelle": "Stracciatella di Andria lait cru 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61498",
+        "libelle": "Stracciatella di Andria fumée lait cru 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61593",
+        "libelle": "Stracciatella à la truffe 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "616",
+        "libelle": "Mozzarella di bufala Campana DOP 10g x 50",
+        "unite": "Pièce"
+    },
+    {
+        "code": "21BUF",
+        "libelle": "Mozzarella di bufala Campana DOP 50g x 5",
+        "unite": "Pièce"
+    },
+    {
+        "code": "816",
+        "libelle": "Mozzarella di bufala Campana DOP 100g x 5",
+        "unite": "Pièce"
+    },
+    {
+        "code": "272",
+        "libelle": "Mozzarella di bufala Campana DOP 125g x 8",
+        "unite": "Pièce"
+    },
+    {
+        "code": "60296",
+        "libelle": "Mozzarella di bufala Campana DOP 125g x 2",
+        "unite": "Pièce"
+    },
+    {
+        "code": "352",
+        "libelle": "Mozzarella di bufala Campana bio DOP 125 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "203",
+        "libelle": "Mozzarella di bufala Campana DOP 250g x 2",
+        "unite": "Pièce"
+    },
+    {
+        "code": "900",
+        "libelle": "Mozzarella di bufala à la truffe 125 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "631AFF",
+        "libelle": "Mozzarella di bufala Campana DOP affumicata 125g x 2",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61433",
+        "libelle": "Mozzarella di bufala Campana DOP tresse 1 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62545",
+        "libelle": "Mozzarella bille 10g x 100",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62546",
+        "libelle": "Mozzarella boule 125 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61434",
+        "libelle": "Nodini di mozzarella 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62549",
+        "libelle": "Mozzarella bloc 1 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62550",
+        "libelle": "Filone affumicato 2 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61719",
+        "libelle": "Mozzarella boule 500g x 6",
+        "unite": "Colis"
+    },
+    {
+        "code": "62554",
+        "libelle": "Mozzarella rapée Cantadora 2,5 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61645",
+        "libelle": "Mozzarella fiammifero 3 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62517",
+        "libelle": "Mozza cuor di pizza fiammifero 3 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "60759",
+        "libelle": "Mozzarella cubettata 3 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "60830",
+        "libelle": "Mozzarella cubetti Galbani 2,5 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61432",
+        "libelle": "Mozzarella lait italien cubettata Masaniello 2,5 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62538",
+        "libelle": "Mozzarella lait Italien cubettata Pugliese 3 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61834",
+        "libelle": "Mozzarella lait italien cubettata 3 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62547",
+        "libelle": "Mozzarella julienne 3 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "60754",
+        "libelle": "Mozzarella julienne napoli 3 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61835",
+        "libelle": "Mozzarella lait italien julienne 3 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62553",
+        "libelle": "Mozzarella lait Italien julienne Masaniello 2,5 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62561",
+        "libelle": "Grana padano DOP râpé 1 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "20",
+        "libelle": "Grana padano DOP bloc ~ 1 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62562",
+        "libelle": "Grana padano DOP bloc ~ 5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62558",
+        "libelle": "Parmigiano reggiano DOP bloc ~ 1 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62560",
+        "libelle": "Parmigiano reggiano DOP bloc 24 mois ~ 5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "60951",
+        "libelle": "Parmigiano reggiano DOP ½ meule 24 mois",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62559",
+        "libelle": "Parmigiano reggiano DOP râpé 1 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62557",
+        "libelle": "Parmigiano reggiano DOP copeaux 500 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61236",
+        "libelle": "Pecorino romano DOP râpé 1 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62345",
+        "libelle": "Pecorino truffe ~ 500 g",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62346",
+        "libelle": "Pecorino poivre ~ 500 g",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62343",
+        "libelle": "Pecorino au piment ~ 500 g",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62344",
+        "libelle": "Pecorino piment roquette et olive ~ 500 g",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62348",
+        "libelle": "Pecorino la Bagnolese ~ 5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62349",
+        "libelle": "Pecorino Monte Marzano ~ 5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62544",
+        "libelle": "Pecorino pepato canestrato ~ 3 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62543",
+        "libelle": "Pecorino romano DOP ~ 4 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "60315",
+        "libelle": "Mascarpone Virgilio 41% 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62555",
+        "libelle": "Mascarpone Virgilio 41% 500 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62556",
+        "libelle": "Mascarpone Virgilio 41% 2 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61221",
+        "libelle": "Mascarpone Granarolo 42% 500 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "60755",
+        "libelle": "Mascarpone Galbani 41% 2 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "60662",
+        "libelle": "Ricotta fraîche au lait cru 5 x 80 g 400 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62541",
+        "libelle": "Ricotta 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62419",
+        "libelle": "Ricotta 1,5 kg",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61497",
+        "libelle": "Ricotta di bufala 200 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61646",
+        "libelle": "Ricotta fraiche de brebis 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "10537",
+        "libelle": "Salame con finocchio ~ 3 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "10508",
+        "libelle": "Salame aux truffes ~ 2,10 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "60224",
+        "libelle": "Salame Milano ~ 3,8 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "2080",
+        "libelle": "Salame Napoli ~ 1,8 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "2880",
+        "libelle": "Ventricina ~ 1,9 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "2875",
+        "libelle": "Spianata Calabra ~ 2,4 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "60621",
+        "libelle": "Nduja di Spilinga ~ 540 g",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61762",
+        "libelle": "Guanciale San Carlo ~ 1,4 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "10645",
+        "libelle": "Pancetta casereccia ~ 2,2 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "10646",
+        "libelle": "Pancetta stagionata tesa affumicata ~ 1,6 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "3515",
+        "libelle": "Pancetta coppata ~ 2 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62090",
+        "libelle": "Cicoli ~ 2 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "11710",
+        "libelle": "Lardo ~ 2 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61412",
+        "libelle": "Speck Senfter IGP ~ 2,5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "10591",
+        "libelle": "Coppa Piacentina DOP ~ 1,7 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "5438",
+        "libelle": "Coppa di Parma IGP ~ 2 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "3521",
+        "libelle": "Bresaola punta d'anca IGP Mottolini 1/ 2 ~ 2 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62587",
+        "libelle": "Pancetta Piacentina DOP ~ 2,5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61211",
+        "libelle": "Jambon San Daniele DOP 16 mois ~ 8 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "11522",
+        "libelle": "Jambon de Parme DOP Zarotti 18 mois ~ 7 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "10580",
+        "libelle": "Jambon de Parme DOP Leoncini 18 mois ~ 8 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61246",
+        "libelle": "Jambon de Parme DOP Zarotti 24 mois ~ 8 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "10583",
+        "libelle": "Jambon de Parme DOP Zarotti 14 mois ~ 7 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "62429",
+        "libelle": "Jambon cuit Smeraldo ~ 7,5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "A071BLU",
+        "libelle": "Jambon cuit cotto blu ~ 8 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "10670",
+        "libelle": "Jambon cuit Leoncini ~ 9 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61614",
+        "libelle": "Jambon rôti aux truffes Leoncini ~ 4,4 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61761",
+        "libelle": "Jambon rôti aux herbes Leoncini ~ 8 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "10677",
+        "libelle": "Mortadella Bologna IGP avec pistache ~ 3 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "60537",
+        "libelle": "Mortadella aux truffes ~ 3 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61763",
+        "libelle": "Mortadella pistache ~ 3 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61212",
+        "libelle": "Jambon italien désossé 9 mois ~ 6,5 kg",
+        "unite": "Kilo"
+    },
+    {
+        "code": "61258",
+        "libelle": "Jambon cru italien 24 tranches 320 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "61259",
+        "libelle": "Mortadelle tranches 140 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "83341306",
+        "libelle": "Coppa 32 tranches 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "62138",
+        "libelle": "Roti de jambon aux herbes 10 tranches 250 g",
+        "unite": "Pièce"
+    },
+    {
+        "code": "22287",
+        "libelle": "Bresaola 27 tranches 250 g",
+        "unite": "Pièce"
+    }
+]
